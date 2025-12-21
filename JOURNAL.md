@@ -1,5 +1,24 @@
 # Smart-Road-Safety-System
 
+## BOM
+
+Here i build the BOM of all the components. This are the thing to build the whole project 
+
+https://docs.google.com/spreadsheets/d/17JcF96xBJZzzzK9_Rad6b0UQn5YGpifdfMuCeLcltTo/edit?gid=0#gid=0
+
+<img width="3420" height="2052" alt="image" src="https://github.com/user-attachments/assets/cba1f328-89ec-408c-b15b-55133caa70a3" />
+<img width="3420" height="2066" alt="image" src="https://github.com/user-attachments/assets/dde37857-433a-449f-b890-413c6f9c476f" />
+<img width="3416" height="1912" alt="image" src="https://github.com/user-attachments/assets/aacb94f9-4cec-4bf4-87a4-98535efe90c6" />
+<img width="3416" height="1220" alt="image" src="https://github.com/user-attachments/assets/d125c0be-01a1-4d6c-a13d-458c53e06be0" />
+<img width="3420" height="1902" alt="image" src="https://github.com/user-attachments/assets/4fe7b67e-a4b4-42d5-9e67-328bba825536" />
+<img width="3420" height="2054" alt="image" src="https://github.com/user-attachments/assets/1fb71e87-2956-4553-a013-478679f9a962" />
+
+
+
+
+
+
+
 ## Coding - ML
 
 Here i did some couple of thing that how it will detect if the driver is sleeping or not and if user also talk to someone then it will warn him to avoid accident
