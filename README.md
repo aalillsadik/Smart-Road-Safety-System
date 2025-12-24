@@ -10,3 +10,7 @@ Smart Road safety system is a device by installing this device, you can turn you
 Here is the full Bill Of Material to build this project
 
 https://docs.google.com/spreadsheets/d/17JcF96xBJZzzzK9_Rad6b0UQn5YGpifdfMuCeLcltTo/edit?gid=0#gid=0
+
+**Journal**
+
+You will find the [Journal](https://github.com/aalillsadik/Smart-Road-Safety-System/blob/main/JOURNAL.md) Here how the project started 
