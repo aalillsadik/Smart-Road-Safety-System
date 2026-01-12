@@ -14,7 +14,18 @@ https://docs.google.com/spreadsheets/d/17JcF96xBJZzzzK9_Rad6b0UQn5YGpifdfMuCeLcl
 <img width="3420" height="2054" alt="image" src="https://github.com/user-attachments/assets/1fb71e87-2956-4553-a013-478679f9a962" />
 
 
+**Digital Wiring And Cad**
 
+Here i have design the CAD and Digital wiring for this project. This schematic is designed in Easy eda. and i have design the cad also in Fusion 360.
+
+<img width="2000" height="1225" alt="image" src="https://github.com/user-attachments/assets/897616c2-ebb3-4d4a-b95b-d9da6c005894" />
+<img width="1218" height="881" alt="image" src="https://github.com/user-attachments/assets/01e26bc6-7790-4cd9-b96a-c0e4a40ada33" />
+<img width="2000" height="1212" alt="image" src="https://github.com/user-attachments/assets/d1a89f2d-1001-450f-8420-72d83bfa3a47" />
+
+
+Circuit Schematic
+
+<img width="2000" height="1219" alt="image" src="https://github.com/user-attachments/assets/2d6ea298-9d11-4529-907f-78e4f3509711" />
 
 
 
